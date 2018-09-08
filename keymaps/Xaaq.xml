@@ -15,6 +15,9 @@
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="Arrangement.Rule.Edit" />
+  <action id="CMake.ReloadCMakeProject">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
