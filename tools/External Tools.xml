@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Pylint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/miniconda3/bin/pylint" />
+      <option name="PARAMETERS" value="$FilePath$ --max-line-length=120" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
