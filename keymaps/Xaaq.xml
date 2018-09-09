@@ -15,6 +15,12 @@
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="Arrangement.Rule.Edit" />
+  <action id="Build">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="CMake.ReloadCMakeProject">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -87,6 +93,7 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
   <action id="UML.ApplyCurrentLayout" />
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt q" />
