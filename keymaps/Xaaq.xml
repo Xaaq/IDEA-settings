@@ -49,9 +49,17 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
-  <action id="EditorSelectWord" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="GotoBookmark0" />
   <action id="GotoNextError" />
+  <action id="HippieBackwardCompletion">
+    <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
   <action id="JumpToLastWindow" />
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="shift alt minus" />
