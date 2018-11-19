@@ -52,6 +52,9 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt slash" />
+  </action>
   <action id="GotoBookmark0" />
   <action id="GotoNextError" />
   <action id="HippieBackwardCompletion">
