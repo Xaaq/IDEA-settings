@@ -34,6 +34,9 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift f9" />
+  </action>
   <action id="EditorContextInfo" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl minus" />
