@@ -37,6 +37,12 @@
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift f9" />
   </action>
+  <action id="Diff.ApplyLeftSide">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="Diff.ApplyRightSide">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="EditorContextInfo" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl minus" />
