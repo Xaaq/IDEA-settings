@@ -43,6 +43,12 @@
   <action id="Diff.ApplyRightSide">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
   <action id="EditorContextInfo" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl minus" />
