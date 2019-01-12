@@ -1,0 +1,26 @@
+<application>
+  <component name="libraryTable">
+    <library name="leaflet" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_leaflet@1.4.0_dist_leaflet.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_leaflet@1.4.0_dist_leaflet.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="mapbox-gl" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_v0.52.0_mapbox-gl.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox-gl-js_v0.52.0_mapbox-gl.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
