@@ -82,10 +82,6 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt slash" />
   </action>
-  <action id="ExpressionTypeInfo">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
-  </action>
   <action id="GotoBookmark0" />
   <action id="GotoNextError" />
   <action id="HippieBackwardCompletion">
