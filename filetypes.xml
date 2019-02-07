@@ -7,6 +7,7 @@
       <mapping ext="data-00000-of-00001" type="PLAIN_TEXT" />
       <mapping ext="fs" type="PLAIN_TEXT" />
       <mapping ext="index" type="PLAIN_TEXT" />
+      <mapping ext="blend" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
