@@ -1,0 +1,177 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/inne.py" timestamp="1551987174601">
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="39" column="30" />
+        <mark key="^" line="39" column="30" />
+        <mark key="." line="39" column="30" />
+      </file>
+      <file name="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" timestamp="1551988474220">
+        <mark key="[" line="32" column="7" />
+        <mark key="]" line="33" column="7" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="7" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="29" column="0" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="34" column="20" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="10" column="43" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="33" column="7" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="26" column="51" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="32" column="27" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="31" column="6" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/my-projects/Tensorflow-test/tensorflow_tutorials/jakies_testy.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQobW9kZWwuYXBwbHkodHJhaW5faW1hZ2VzWzoxXSkpCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>train_images = train_images / 255.0</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQobW9kZWwuYXBwbHkodHJhaW5faW1hZ2VzWzoxXSkpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">YiA9IG5wLm9uZXMoKDEsIDYsIDYsIDEpKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBmdW5jID0ga2VyYXMuYmFja2VuZC5mdW5jdGlvbihba2VyYXMuSW5wdXQoc2hhcGU9KDI4LCAyOCkpXSwgW2ZsYXR0ZW4ub3V0cHV0XSkKIyBwcmludChmdW5jKHRyYWluX2ltYWdlcykpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBmbGF0dGVuID0ga2VyYXMubGF5ZXJzLkZsYXR0ZW4oaW5wdXRfc2hhcGU9KDI4LCAyOCkpCiMgZmxhdHRlbiA9IGtlcmFzLmxheWVycy5GbGF0dGVuKCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpbnQoYSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y2xhc3NfbmFtZXMgPSBbIlQtc2hpcnQvdG9wIiwgIlRyb3VzZXIiLCAiUHVsbG92ZXIiLCAiRHJlc3MiLCAiQ29hdCIsICJTYW5kYWwiLCAiU2hpcnQiLCAiU25lYWtlciIsICJCYWciLCAiQW5rbGUgYm9vdCJdCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y2xhc3NfbmFtZXMgPSBbIlQtc2hpcnQvdG9wIiwgIlRyb3VzZXIiLCAiUHVsbG92ZXIiLCAiRHJlc3MiLCAiQ29hdCIsICJTYW5kYWwiLCAiU2hpcnQiLCAiU25lYWtlciIsICJCYWciLCAiQW5rbGUgYm9vdCJdCnRyYWluX2ltYWdlcyA9IG5wLnJlc2hhcGUodHJhaW5faW1hZ2VzLCAoKnRyYWluX2ltYWdlcy5zaGFwZSwgMSkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">KHRyYWluX2ltYWdlcywgdHJhaW5fbGFiZWxzKSwgKHRlc3RfaW1hZ2VzLCB0ZXN0X2xhYmVscykgPSBmYXNoaW9uX21uaXN0LmxvYWRfZGF0YSgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">KHRyYWluX2ltYWdlcywgdHJhaW5fbGFiZWxzKSwgKHRlc3RfaW1hZ2VzLCB0ZXN0X2xhYmVscykgPSBmYXNoaW9uX21uaXN0LmxvYWRfZGF0YSgpCmNsYXNzX25hbWVzID0gWyJULXNoaXJ0L3RvcCIsICJUcm91c2VyIiwgIlB1bGxvdmVyIiwgIkRyZXNzIiwgIkNvYXQiLCAiU2FuZGFsIiwgIlNoaXJ0IiwgIlNuZWFrZXIiLCAiQmFnIiwgIkFua2xlIGJvb3QiXQp0cmFpbl9pbWFnZXMgPSBucC5yZXNoYXBlKHRyYWluX2ltYWdlcywgKCp0cmFpbl9pbWFnZXMuc2hhcGUsIDEpKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">KHRyYWluX2ltYWdlcywgdHJhaW5fbGFiZWxzKSwgKHRlc3RfaW1hZ2VzLCB0ZXN0X2xhYmVscykgPSBmYXNoaW9uX21uaXN0LmxvYWRfZGF0YSgpCmNsYXNzX25hbWVzID0gWyJULXNoaXJ0L3RvcCIsICJUcm91c2VyIiwgIlB1bGxvdmVyIiwgIkRyZXNzIiwgIkNvYXQiLCAiU2FuZGFsIiwgIlNoaXJ0IiwgIlNuZWFrZXIiLCAiQmFnIiwgIkFua2xlIGJvb3QiXQp0cmFpbl9pbWFnZXMgPSBucC5yZXNoYXBlKHRyYWluX2ltYWdlcywgKCp0cmFpbl9pbWFnZXMuc2hhcGUsIDEpKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>e.</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+        <entry>Sex</entry>
+        <entry>e.</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

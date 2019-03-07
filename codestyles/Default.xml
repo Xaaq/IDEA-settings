@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <Objective-C>
+    <option name="INTRODUCE_CONST_VARS" value="true" />
+    <option name="INTRODUCE_AUTO_VARS" value="true" />
+  </Objective-C>
   <Objective-C-extensions>
     <extensions>
       <pair source="cpp" header="h" fileNamingConvention="SNAKE_CASE" />
