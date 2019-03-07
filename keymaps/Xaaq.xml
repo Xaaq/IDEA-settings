@@ -58,12 +58,18 @@
   <action id="Diff.ResolveConflict">
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
+  <action id="EditorBackwardParagraph">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
   <action id="EditorContextInfo" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorForwardParagraph">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl equals" />
@@ -75,6 +81,9 @@
   <action id="EditorMoveToPageTop" />
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl 0" />
+  </action>
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt slash" />
