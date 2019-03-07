@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="bottles" type="PLAIN_TEXT" />
+      <mapping pattern="glasses" type="PLAIN_TEXT" />
       <mapping pattern="Tensorflow-test" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
