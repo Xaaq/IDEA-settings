@@ -146,6 +146,10 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift f10" />
   </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
