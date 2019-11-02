@@ -5,6 +5,9 @@
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="alt 7" />
   </action>
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
@@ -14,6 +17,7 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="Arrangement.Rule.Edit" />
   <action id="Build">
     <keyboard-shortcut first-keystroke="ctrl f10" />
@@ -164,6 +168,12 @@
   </action>
   <action id="ViewInplaceComments" />
   <action id="XDebugger.SetValue" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
