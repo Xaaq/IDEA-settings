@@ -19,9 +19,6 @@
   </action>
   <action id="ActivateTODOToolWindow" />
   <action id="Arrangement.Rule.Edit" />
-  <action id="Build">
-    <keyboard-shortcut first-keystroke="ctrl f10" />
-  </action>
   <action id="CMake.ReloadCMakeProject">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
@@ -30,6 +27,9 @@
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
@@ -175,9 +175,6 @@
   </action>
   <action id="ViewInplaceComments" />
   <action id="XDebugger.SetValue" />
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl f10" />
-  </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
