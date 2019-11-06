@@ -18,6 +18,9 @@
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="Arrangement.Rule.Edit" />
   <action id="CMake.ReloadCMakeProject">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
