@@ -5,6 +5,9 @@
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="alt 7" />
   </action>
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
@@ -14,15 +17,22 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
-  <action id="Arrangement.Rule.Edit" />
-  <action id="Build">
-    <keyboard-shortcut first-keystroke="ctrl f10" />
+  <action id="ActivateTODOToolWindow" />
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
+  <action id="Arrangement.Rule.Edit" />
   <action id="CMake.ReloadCMakeProject">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
+  <action id="CloseAllUnpinnedEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
@@ -99,6 +109,7 @@
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
+  <action id="IntroduceFunctionalParameter" />
   <action id="JumpToLastWindow" />
   <action id="Macro.Edit script parameters">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
@@ -117,6 +128,9 @@
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="alt left" />
@@ -164,6 +178,12 @@
   </action>
   <action id="ViewInplaceComments" />
   <action id="XDebugger.SetValue" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
