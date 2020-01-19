@@ -25,17 +25,11 @@
   <action id="CMake.ReloadCMakeProject">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
-  <action id="ChangesView.Refresh">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
-  <action id="CommittedChanges.Refresh">
-    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl f10" />
@@ -115,9 +109,6 @@
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
-  <action id="IncomingChanges.Refresh">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
   <action id="IntroduceFunctionalParameter" />
   <action id="JumpToLastWindow" />
   <action id="Macro.Edit script parameters">
@@ -152,14 +143,11 @@
   </action>
   <action id="QuickChangeScheme" />
   <action id="RecentFiles" />
-  <action id="Refresh">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
+  <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
-  <action id="Replace" />
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
@@ -184,9 +172,6 @@
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt q" />
-  </action>
-  <action id="Vcs.RefreshStatuses">
-    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
