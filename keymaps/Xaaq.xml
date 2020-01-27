@@ -14,6 +14,7 @@
   <action id="ActivateSciViewToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
+  <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
@@ -142,7 +143,9 @@
   </action>
   <action id="QuickChangeScheme" />
   <action id="RecentFiles" />
-  <action id="Refresh" />
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
