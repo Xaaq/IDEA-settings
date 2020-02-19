@@ -169,6 +169,9 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
+  <action id="Tool_External Tools_Flake8">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 1" />
+  </action>
   <action id="Tool_External Tools_Pre-commit">
     <keyboard-shortcut first-keystroke="shift ctrl alt 2" />
   </action>
