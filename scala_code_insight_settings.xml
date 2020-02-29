@@ -1,0 +1,6 @@
+<application>
+  <component name="ScalaCodeInsightSettings">
+    <option name="uniqueTypesToShowMethodChains" value="1" />
+    <option name="presentationLength" value="90" />
+  </component>
+</application>
