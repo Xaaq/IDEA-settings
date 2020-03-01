@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="configargparse.py" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,5 +20,6 @@
     <mask>*.cpp</mask>
     <mask>*.md</mask>
     <mask>*.py</mask>
+    <mask>configargparse.py</mask>
   </component>
 </application>
