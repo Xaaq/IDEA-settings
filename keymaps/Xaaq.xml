@@ -144,6 +144,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
+  <action id="PySwitchSdkAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt i" />
+  </action>
   <action id="QuickChangeScheme" />
   <action id="RecentFiles" />
   <action id="Refresh">
@@ -165,6 +168,7 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift f10" />
   </action>
+  <action id="RunInspection" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
