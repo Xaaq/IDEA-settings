@@ -22,6 +22,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="Arrangement.Rule.Edit" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="CMake.ReloadCMakeProject">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
@@ -101,6 +104,9 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt slash" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="GotoBookmark0" />
   <action id="GotoNextError" />
   <action id="HippieBackwardCompletion">
@@ -124,7 +130,7 @@
     <keyboard-shortcut first-keystroke="alt quote" />
   </action>
   <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
@@ -136,7 +142,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift alt quote" />
