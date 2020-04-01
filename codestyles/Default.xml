@@ -13,9 +13,6 @@
       <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
   </Objective-C-extensions>
-  <Shell_Script>
-    <option name="REDIRECT_FOLLOWED_BY_SPACE" value="true" />
-  </Shell_Script>
   <codeStyleSettings language="XML">
     <arrangement>
       <rules>
