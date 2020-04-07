@@ -65,7 +65,6 @@
         <root url="jar://$USER_HOME$/.sdkman/candidates/groovy/3.0.2/lib/ST4-4.1.jar!/" />
         <root url="jar://$USER_HOME$/.sdkman/candidates/groovy/3.0.2/lib/gpars-1.2.1.jar!/" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES />
     </library>
     <library name="scala-sdk-2.11.12" type="Scala">
@@ -86,9 +85,6 @@
         <root url="jar://$USER_HOME$/.sdkman/candidates/scala/2.11.12/lib/scala-reflect.jar!/" />
         <root url="jar://$USER_HOME$/.sdkman/candidates/scala/2.11.12/lib/scala-swing_2.11-1.0.2.jar!/" />
       </CLASSES>
-      <JAVADOC>
-        <root url="https://www.scala-lang.org/api/2.11.12/" />
-      </JAVADOC>
       <SOURCES />
     </library>
     <library name="scala-sdk-2.13.1" type="Scala">
@@ -104,9 +100,17 @@
         <root url="jar://$USER_HOME$/.sdkman/candidates/scala/2.13.1/lib/scala-library.jar!/" />
         <root url="jar://$USER_HOME$/.sdkman/candidates/scala/2.13.1/lib/scala-reflect.jar!/" />
       </CLASSES>
-      <JAVADOC>
-        <root url="https://www.scala-lang.org/api/2.13.1/" />
-      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="vue" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_vue_dist_vue.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_vue_dist_vue.js" />
+      </CLASSES>
       <SOURCES />
     </library>
   </component>
