@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="axios" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_axios@0.12.0_dist_axios.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_axios@0.12.0_dist_axios.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="groovy-3.0.2">
       <CLASSES>
         <root url="jar://$USER_HOME$/.sdkman/candidates/groovy/3.0.2/lib/groovy-jaxb-3.0.2.jar!/" />
