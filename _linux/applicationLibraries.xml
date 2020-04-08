@@ -67,6 +67,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="lodash" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_lodash@4.13.1_lodash.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_lodash@4.13.1_lodash.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="scala-sdk-2.11.12" type="Scala">
       <properties>
         <language-level>Scala_2_11</language-level>
