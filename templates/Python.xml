@@ -1,5 +1,3 @@
 <templateSet group="Python">
-  <template name="main" value="if __name__ == &quot;__main__&quot;:&#10;    $END$" description="if __name__ == &quot;__main__&quot;" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="main" value="if __name__ == &quot;__main__&quot;:&#10;    $END$" description="if __name__ == &quot;__main__&quot;" toReformat="false" toShortenFQNames="true" />
 </templateSet>
