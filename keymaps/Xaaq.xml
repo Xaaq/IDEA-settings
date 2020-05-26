@@ -153,7 +153,6 @@
   <action id="PySwitchSdkAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt i" />
   </action>
-  <action id="QuickChangeScheme" />
   <action id="RecentFiles" />
   <action id="Refresh">
     <keyboard-shortcut first-keystroke="ctrl r" />
