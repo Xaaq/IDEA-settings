@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="bii" type="Bash" />
       <mapping pattern=".package.lock" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping pattern="checkpoint" type="PLAIN_TEXT" />
