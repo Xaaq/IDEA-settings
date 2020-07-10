@@ -12,10 +12,10 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.py</mask>
     <mask>*.csv</mask>
     <mask>*.ts</mask>
     <mask>*.cpp</mask>
     <mask>*.md</mask>
+    <mask>*.py</mask>
   </component>
 </application>
