@@ -121,6 +121,18 @@
   <action id="Macro.Edit script parameters">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
+  <action id="Macro.Go down 5 lines">
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
+  </action>
+  <action id="Macro.Go left 20 characters">
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  </action>
+  <action id="Macro.Go right 20 characters">
+    <keyboard-shortcut first-keystroke="ctrl numpad3" />
+  </action>
+  <action id="Macro.Go up 5 lines">
+    <keyboard-shortcut first-keystroke="ctrl numpad5" />
+  </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="shift alt minus" />
   </action>
