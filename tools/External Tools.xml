@@ -9,7 +9,7 @@
   <tool name="Pre-commit" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$PyInterpreterDirectory$/pre-commit" />
-      <option name="PARAMETERS" value="run --file $FilePathRelativeToProjectRoot$" />
+      <option name="PARAMETERS" value="run --all-files" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
