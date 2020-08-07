@@ -8,6 +8,7 @@
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
+  <action id="ActivateProblemsViewToolWindow" />
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
@@ -17,6 +18,9 @@
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
@@ -201,6 +205,12 @@
   </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="shift alt quote" />
   </action>
   <action id="ViewInplaceComments" />
   <action id="XDebugger.SetValue" />
