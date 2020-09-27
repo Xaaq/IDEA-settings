@@ -207,10 +207,10 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="VcsShowNextChangeMarker">
-    <keyboard-shortcut first-keystroke="alt semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl alt quote" />
   </action>
   <action id="VcsShowPrevChangeMarker">
-    <keyboard-shortcut first-keystroke="shift alt semicolon" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt quote" />
   </action>
   <action id="ViewInplaceComments" />
   <action id="XDebugger.SetValue" />
