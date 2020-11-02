@@ -1,10 +1,8 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="REFORMAT_ON_PASTE" value="1" />
-    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
 </application>
