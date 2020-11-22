@@ -89,6 +89,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="platform" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_apis.google.com_js_platform.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_apis.google.com_js_platform.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="scala-sdk-2.11.12" type="Scala">
       <properties>
         <language-level>Scala_2_11</language-level>
