@@ -1,13 +1,13 @@
 <application>
   <component name="libraryTable">
-    <library name="axios" type="javaScript">
+    <library name="api" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_axios@0.12.0_dist_axios.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_apis.google.com_js_api.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_axios@0.12.0_dist_axios.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_apis.google.com_js_api.js" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -78,17 +78,6 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="lodash" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_lodash@4.13.1_lodash.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_lodash@4.13.1_lodash.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
     <library name="platform" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -132,17 +121,6 @@
       <CLASSES>
         <root url="jar://$USER_HOME$/.sdkman/candidates/scala/2.13.1/lib/scala-library.jar!/" />
         <root url="jar://$USER_HOME$/.sdkman/candidates/scala/2.13.1/lib/scala-reflect.jar!/" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="vue" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_vue_dist_vue.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_vue_dist_vue.js" />
       </CLASSES>
       <SOURCES />
     </library>
