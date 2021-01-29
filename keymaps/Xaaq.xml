@@ -3,7 +3,7 @@
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
   <action id="ActivateFavoritesToolWindow">
-    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
