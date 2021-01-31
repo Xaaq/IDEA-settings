@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="aipynb" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="checkpoint" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
