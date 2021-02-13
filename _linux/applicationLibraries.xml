@@ -1,5 +1,12 @@
 <application>
   <component name="libraryTable">
+    <library name="1.4" type="kotlin.js">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.sdkman/candidates/kotlin/1.4.30" />
+      </SOURCES>
+    </library>
     <library name="scala-sdk-2.12.12" type="Scala">
       <properties>
         <compiler-classpath>
