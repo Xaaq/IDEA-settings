@@ -757,8 +757,9 @@
         <entry key="*.ignore">
           <value>
             <plugin>
-              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
-              <option name="myPluginName" value=".ignore" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2431,14 +2432,6 @@
           </value>
         </entry>
         <entry key="Cargo.lock">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.toml.lang" />
-              <option name="myPluginName" value="Toml" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="Cargo.toml.orig">
           <value>
             <plugin>
               <option name="myPluginId" value="org.toml.lang" />
