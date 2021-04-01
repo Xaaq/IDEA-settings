@@ -32,9 +32,6 @@
   <action id="CMake.ReloadCMakeProject">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
-  <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="shift ctrl w" />
-  </action>
   <action id="CloseAllNotifications">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" />
   </action>
