@@ -1,7 +1,11 @@
 <keymap version="1" name="Xaaq" parent="$default">
+  <action id="ActivateBookmarksToolWindow">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="ActivateCMakeToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
@@ -165,6 +169,21 @@
   </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="RerunFailedTests">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f5" />
+  </action>
+  <action id="ResizeToolWindowDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="ResizeToolWindowLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="ResizeToolWindowRight">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="ResizeToolWindowUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="ctrl f5" />
