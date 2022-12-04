@@ -7,5 +7,7 @@
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="cidr.max.intellisense.file.length" value="1000000" />
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
+    <entry key="ide.experimental.ui" value="true" />
+    <entry key="debugger.new.tool.window.layout" value="true" />
   </component>
 </application>
