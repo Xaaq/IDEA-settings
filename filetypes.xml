@@ -10,6 +10,7 @@
       <mapping pattern=".package.lock" type="PLAIN_TEXT" />
       <mapping ext="kbx" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="glb" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="io" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
