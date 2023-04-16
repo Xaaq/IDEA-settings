@@ -240,6 +240,10 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="copilot.requestCompletions">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt back_slash" />
+  </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
