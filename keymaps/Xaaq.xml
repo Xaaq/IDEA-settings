@@ -96,6 +96,7 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="EditorIncreaseFontSizeGlobal" />
   <action id="EditorMatchBrace">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
