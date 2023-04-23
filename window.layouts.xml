@@ -1,0 +1,181 @@
+<application>
+  <component name="ToolWindowLayout"><![CDATA[{
+  "activeLayoutName": "Default",
+  "layouts": {
+    "Default": {
+      "v2": [
+        {
+          "id": "Space Code Reviews",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Pull Requests",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Learn",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.13236257
+        },
+        {
+          "id": "Structure",
+          "order": 3,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.13236257,
+          "isSplit": true
+        },
+        {
+          "id": "Database Changes",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "TypeScript",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Endpoints",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Python Packages",
+          "anchor": "BOTTOM",
+          "weight": 0.32977942
+        },
+        {
+          "id": "TODO",
+          "anchor": "BOTTOM",
+          "weight": 0.32977942,
+          "sideWeight": 0.50015247
+        },
+        {
+          "id": "File Transfer",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Python Console",
+          "anchor": "BOTTOM",
+          "weight": 0.32977942
+        },
+        {
+          "id": "Dependency Checker",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Bookmarks",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "weight": 0.22316176,
+          "sideWeight": 0.49984756,
+          "isSplit": true
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Run",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.2232074
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "documentation.v2",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "SciView",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Meet New UI",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "RIGHT",
+          "weight": 0.33033377
+        },
+        {
+          "id": "Notifications",
+          "order": 1,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "Database",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Gradle",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Web Inspector",
+          "order": 5,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Commit",
+          "order": 6,
+          "anchor": "RIGHT",
+          "isVisible": true,
+          "weight": 0.11436518
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.13236257,
+        "bottom": 0.33037782,
+        "right": 0.11436518
+      }
+    }
+  }
+}]]></component>
+</application>

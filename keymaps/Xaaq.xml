@@ -96,6 +96,7 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="EditorIncreaseFontSizeGlobal" />
   <action id="EditorMatchBrace">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
@@ -238,6 +239,10 @@
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="copilot.requestCompletions">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+    <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="f12" />
