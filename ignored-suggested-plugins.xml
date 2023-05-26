@@ -1,0 +1,10 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="org.jetbrains.plugins.stylus" />
+        <option value="com.jetbrains.lang.ejs" />
+      </list>
+    </option>
+  </component>
+</application>
