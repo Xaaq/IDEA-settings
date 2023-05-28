@@ -4,7 +4,6 @@
       <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="aipynb" type="AUTO_DETECTED" />
       <mapping pattern="checkpoint" type="PLAIN_TEXT" />
-      <mapping pattern=".python-version" type="PLAIN_TEXT" />
       <mapping pattern="random_seed" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping pattern=".package.lock" type="PLAIN_TEXT" />
