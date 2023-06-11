@@ -7,6 +7,7 @@
       <mapping pattern="random_seed" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping pattern=".package.lock" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="kbx" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="glb" type="PLAIN_TEXT" />
