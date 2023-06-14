@@ -111,6 +111,9 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt slash" />
   </action>
