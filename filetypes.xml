@@ -10,13 +10,13 @@
       <mapping pattern=".package.lock" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="kbx" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="glb" type="PLAIN_TEXT" />
+      <mapping ext="gpg" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="io" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="dae" type="PLAIN_TEXT" />
-      <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping pattern="terraform-gcp" type="Shell Script" />
       <mapping pattern="terraform-kubernetes" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
@@ -26,6 +26,7 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="pl" approved="true" type="textmate" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
