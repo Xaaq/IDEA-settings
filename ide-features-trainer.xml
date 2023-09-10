@@ -2,4 +2,11 @@
   <component name="LangManager">
     <option name="languageName" value="Python" />
   </component>
+  <component name="LessonStateBase">
+    <option name="map">
+      <map>
+        <entry key="python.onboarding" value="NOT_PASSED" />
+      </map>
+    </option>
+  </component>
 </application>
