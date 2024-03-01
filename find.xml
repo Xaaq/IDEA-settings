@@ -3,6 +3,7 @@
     <option name="customScope" value="Project files" />
     <option name="defaultScopeName" value="Project files" />
     <option name="SEARCH_SCOPE" value="Project files" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.test.*</mask>
     <mask>*.tsx</mask>
   </component>
