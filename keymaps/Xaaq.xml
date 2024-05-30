@@ -163,6 +163,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
+  <action id="ReactExtractComponentAction">
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
+  </action>
   <action id="RecentFiles" />
   <action id="Refresh">
     <keyboard-shortcut first-keystroke="ctrl r" />
