@@ -1,5 +1,4 @@
 <scheme name="_@user_Dark" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2023-04-13T23:25:31</property>
     <property name="ide">Python</property>
@@ -8,9 +7,6 @@
     <property name="originalScheme">Dark</property>
     <property name="partialSave">true</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <attributes>
     <option name="RUNTIME_ERROR">
       <value>
