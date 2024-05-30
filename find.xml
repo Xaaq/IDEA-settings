@@ -4,8 +4,8 @@
     <option name="defaultScopeName" value="Project files" />
     <option name="SEARCH_SCOPE" value="Project files" />
     <mask>*.test.*</mask>
+    <mask>*.tsx</mask>
     <mask>*.ts*</mask>
     <mask>*.py</mask>
-    <mask>*.tsx</mask>
   </component>
 </application>

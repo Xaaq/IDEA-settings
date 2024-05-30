@@ -9,11 +9,6 @@
           "isShowStripeButton": false
         },
         {
-          "id": "Merge Requests",
-          "isShowStripeButton": false,
-          "weight": 0.13247995
-        },
-        {
           "id": "Pull Requests",
           "isShowStripeButton": false
         },
@@ -28,12 +23,6 @@
           "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.13236257
-        },
-        {
-          "id": "Welcome to GitHub Copilot",
-          "order": 1,
-          "isShowStripeButton": false,
-          "weight": 0.3299346
         },
         {
           "id": "Structure",
@@ -108,13 +97,6 @@
           "anchor": "BOTTOM"
         },
         {
-          "id": "Debug",
-          "order": 4,
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.32994732
-        },
-        {
           "id": "Run",
           "order": 4,
           "anchor": "BOTTOM",
@@ -126,20 +108,7 @@
           "anchor": "BOTTOM"
         },
         {
-          "id": "Find",
-          "order": 4,
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.32994732
-        },
-        {
           "id": "documentation.v2",
-          "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "isSplit": true
-        },
-        {
-          "id": "Coverage",
           "anchor": "RIGHT",
           "isShowStripeButton": false,
           "isSplit": true
@@ -160,12 +129,6 @@
           "order": 0,
           "anchor": "RIGHT",
           "weight": 0.33033377
-        },
-        {
-          "id": "AIAssistant",
-          "order": 1,
-          "anchor": "RIGHT",
-          "weight": 0.25
         },
         {
           "id": "Notifications",
@@ -193,13 +156,6 @@
           "weight": 0.25
         },
         {
-          "id": "Plots",
-          "order": 5,
-          "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "weight": 0.1
-        },
-        {
           "id": "Web Inspector",
           "order": 5,
           "anchor": "RIGHT",
@@ -211,21 +167,6 @@
           "anchor": "RIGHT",
           "isVisible": true,
           "weight": 0.11436518
-        },
-        {
-          "id": "github.copilotToolWindow",
-          "order": 9,
-          "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "weight": 0.11431657
-        },
-        {
-          "id": "GitHub Copilot Chat",
-          "order": 10,
-          "anchor": "RIGHT",
-          "isActiveOnStart": true,
-          "isShowStripeButton": false,
-          "weight": 0.11438562
         }
       ],
       "unifiedWeights": {
