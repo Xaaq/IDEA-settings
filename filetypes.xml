@@ -7,6 +7,7 @@
       <mapping pattern="checkpoint" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.docker" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev.production" type="PLAIN_TEXT" />
       <mapping pattern="random_seed" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping pattern=".package.lock" type="PLAIN_TEXT" />
