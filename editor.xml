@@ -45,4 +45,7 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="TypeScript.parameter.hints.old.js.param.hints.show.names.for.tagged" />
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
 </application>
