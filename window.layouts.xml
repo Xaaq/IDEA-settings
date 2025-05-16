@@ -26,7 +26,7 @@
         },
         {
           "id": "Structure",
-          "order": 3,
+          "order": 1,
           "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.13236257,
@@ -104,7 +104,7 @@
         },
         {
           "id": "Services",
-          "order": 4,
+          "order": 5,
           "anchor": "BOTTOM"
         },
         {
