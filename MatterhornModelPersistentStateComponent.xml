@@ -1,0 +1,12 @@
+<application>
+  <component name="MatterhornModelPersistentStateComponent">
+    <option name="actionWhiteList">
+      <list>
+        <Allowed>
+          <option name="actionRegex" value="^\Qfind . -name &quot;.idea&quot; -type d\E$" />
+          <option name="actionType" value="Terminal" />
+        </Allowed>
+      </list>
+    </option>
+  </component>
+</application>

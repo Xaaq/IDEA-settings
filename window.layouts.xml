@@ -9,6 +9,15 @@
           "isShowStripeButton": false
         },
         {
+          "id": "Merge Requests",
+          "isShowStripeButton": false,
+          "weight": 0.13247995
+        },
+        {
+          "id": "Backup and Sync History",
+          "isShowStripeButton": false
+        },
+        {
           "id": "Pull Requests",
           "isShowStripeButton": false
         },
@@ -64,6 +73,11 @@
           "isShowStripeButton": false
         },
         {
+          "id": "HfCacheToolWindow",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
           "id": "Python Console",
           "anchor": "BOTTOM",
           "weight": 0.32977942
@@ -114,9 +128,21 @@
           "isSplit": true
         },
         {
+          "id": "Coverage",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
           "id": "SciView",
           "anchor": "RIGHT",
           "isShowStripeButton": false
+        },
+        {
+          "id": "Jupyter Variables",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
         },
         {
           "id": "Meet New UI",
@@ -156,6 +182,12 @@
           "weight": 0.25
         },
         {
+          "id": "Plots",
+          "order": 5,
+          "anchor": "RIGHT",
+          "weight": 0.1
+        },
+        {
           "id": "Web Inspector",
           "order": 5,
           "anchor": "RIGHT",
@@ -165,6 +197,13 @@
           "id": "Commit",
           "order": 6,
           "anchor": "RIGHT",
+          "weight": 0.11436518
+        },
+        {
+          "id": "ElectroJunToolWindow",
+          "order": 10,
+          "anchor": "RIGHT",
+          "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.11436518
         }
