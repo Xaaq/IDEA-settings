@@ -3,11 +3,27 @@
     <option name="actionWhiteList">
       <list>
         <Allowed>
-          <option name="actionRegex" value="^\Qfind . -name &quot;.idea&quot; -type d\E$" />
+          <option name="actionRegex" value="^find.*" />
           <option name="actionType" value="Terminal" />
         </Allowed>
         <Allowed>
-          <option name="actionRegex" value="^\Qgit ls-files | grep -i \E\S+$" />
+          <option name="actionRegex" value="^npm run.*" />
+          <option name="actionType" value="Terminal" />
+        </Allowed>
+        <Allowed>
+          <option name="actionRegex" value="^cat.*" />
+          <option name="actionType" value="Terminal" />
+        </Allowed>
+        <Allowed>
+          <option name="actionRegex" value="^grep.*" />
+          <option name="actionType" value="Terminal" />
+        </Allowed>
+        <Allowed>
+          <option name="actionRegex" value="^cd.*" />
+          <option name="actionType" value="Terminal" />
+        </Allowed>
+        <Allowed>
+          <option name="actionRegex" value="^ls.*" />
           <option name="actionType" value="Terminal" />
         </Allowed>
       </list>

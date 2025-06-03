@@ -31,14 +31,14 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.13236257
+          "weight": 0.13229755
         },
         {
           "id": "Structure",
           "order": 1,
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.13236257,
+          "weight": 0.13229755,
           "isSplit": true
         },
         {
@@ -81,6 +81,11 @@
           "id": "Python Console",
           "anchor": "BOTTOM",
           "weight": 0.32977942
+        },
+        {
+          "id": "Find",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
         },
         {
           "id": "Dependency Checker",
@@ -189,28 +194,27 @@
         },
         {
           "id": "Web Inspector",
-          "order": 5,
+          "order": 6,
           "anchor": "RIGHT",
           "weight": 0.25
         },
         {
           "id": "Commit",
-          "order": 6,
+          "order": 7,
           "anchor": "RIGHT",
+          "isVisible": true,
           "weight": 0.11436518
         },
         {
           "id": "ElectroJunToolWindow",
-          "order": 10,
+          "order": 8,
           "anchor": "RIGHT",
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.11436518
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.13236257,
+        "left": 0.13229755,
         "bottom": 0.33037782,
         "right": 0.11436518
       }
