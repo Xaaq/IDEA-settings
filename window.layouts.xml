@@ -229,21 +229,21 @@
         },
         {
           "id": "github.copilotToolWindow",
-          "order": 11,
+          "order": 9,
           "anchor": "RIGHT",
           "isShowStripeButton": false,
           "weight": 0.30555555
         },
         {
           "id": "GitHub Copilot Chat",
-          "order": 12,
+          "order": 10,
           "anchor": "RIGHT",
           "isShowStripeButton": false,
           "weight": 0.30555555
         },
         {
           "id": "Coverage",
-          "order": 14,
+          "order": 11,
           "anchor": "RIGHT",
           "weight": 0.114438325,
           "sideWeight": 0.49939024
