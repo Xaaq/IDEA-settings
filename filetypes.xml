@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="aipynb" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
+      <mapping pattern="mcp.json" type="JSON5" />
       <mapping pattern="checkpoint" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.docker" type="PLAIN_TEXT" />
