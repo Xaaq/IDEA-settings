@@ -28,5 +28,6 @@
         </Allowed>
       </list>
     </option>
+    <option name="autoModeEnabled" value="true" />
   </component>
 </application>
