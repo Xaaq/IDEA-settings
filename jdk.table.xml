@@ -1,34 +1,30 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 3.11 virtualenv at ~/projects/my/gymfox/backend/.venv" />
+      <name value="Python 3.13 virtualenv at ~/projects/my/gymfox/backend/.venv" />
       <type value="Python SDK" />
-      <version value="Python 3.11.2" />
+      <version value="Python 3.13.9" />
       <homePath value="$USER_HOME$/projects/my/gymfox/backend/.venv/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/.pyenv/versions/3.11.2/lib/python3.11" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/3.11.2/lib/python3.11/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/projects/my/gymfox/backend/.venv/lib/python3.11/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.13.9/lib/python3.13" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.13.9/lib/python3.13/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/projects/my/gymfox/backend/.venv/lib/python3.13/site-packages" type="simple" />
             <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2025.2/python_stubs/1888811873" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tqdm" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/toml" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pillow" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/PyYAML" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/docker" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/psutil" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyasn1" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/aiofiles" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/greenlet" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/psycopg2" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/SQLAlchemy" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cachetools" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/defusedxml" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
           </root>
@@ -37,7 +33,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional SDK_UUID="b99a1b2c-dd68-4570-a2ab-ca3749c631f7">
+      <additional SDK_UUID="6c0e7290-dfdd-4f5e-8ffd-3e459d92f7f1">
         <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
