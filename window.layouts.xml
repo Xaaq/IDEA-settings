@@ -31,14 +31,16 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.13224345
+          "weight": 0.13224098,
+          "sideWeight": 0.5007956
         },
         {
           "id": "Structure",
           "order": 1,
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.13224345,
+          "weight": 0.13224098,
+          "sideWeight": 0.49920446,
           "isSplit": true
         },
         {
@@ -55,6 +57,13 @@
           "sideWeight": 0.5007943
         },
         {
+          "id": "AI Playground",
+          "order": 4,
+          "isShowStripeButton": false,
+          "weight": 0.13222656,
+          "isSplit": true
+        },
+        {
           "id": "Database Changes",
           "anchor": "BOTTOM",
           "isShowStripeButton": false
@@ -66,6 +75,11 @@
         },
         {
           "id": "Endpoints",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "GitHub Copilot MCP Log",
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
@@ -153,6 +167,11 @@
           "isSplit": true
         },
         {
+          "id": "GitHub Coding Agent Jobs",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
           "id": "SciView",
           "anchor": "RIGHT",
           "isShowStripeButton": false
@@ -216,8 +235,6 @@
           "id": "Commit",
           "order": 7,
           "anchor": "RIGHT",
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.114438325,
           "sideWeight": 0.50060976
         },
@@ -238,8 +255,9 @@
           "id": "GitHub Copilot Chat",
           "order": 10,
           "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "weight": 0.30555555
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.114438325
         },
         {
           "id": "Coverage",
@@ -251,7 +269,7 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.13224345,
+        "left": 0.13224098,
         "bottom": 0.33037782,
         "right": 0.114438325
       }
