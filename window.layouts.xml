@@ -32,7 +32,7 @@
           "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.13224098,
-          "sideWeight": 0.5007956
+          "sideWeight": 0.5015911
         },
         {
           "id": "Structure",
@@ -40,7 +40,7 @@
           "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.13224098,
-          "sideWeight": 0.49920446,
+          "sideWeight": 0.4984089,
           "isSplit": true
         },
         {
@@ -235,6 +235,7 @@
           "id": "Commit",
           "order": 7,
           "anchor": "RIGHT",
+          "isVisible": true,
           "weight": 0.114438325,
           "sideWeight": 0.50060976
         },
@@ -255,8 +256,6 @@
           "id": "GitHub Copilot Chat",
           "order": 10,
           "anchor": "RIGHT",
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.114438325
         },
         {
