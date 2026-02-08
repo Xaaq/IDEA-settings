@@ -1,5 +1,5 @@
 <application>
   <component name="LafManager">
-    <laf themeId="Islands Light" />
+    <laf themeId="Islands Dark" />
   </component>
 </application>
