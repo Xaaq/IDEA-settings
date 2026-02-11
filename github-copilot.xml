@@ -6,5 +6,6 @@
         <entry key="*" value="true" />
       </map>
     </languageAllowList>
+    <option name="terminalRulesVersion" value="1" />
   </component>
 </application>
