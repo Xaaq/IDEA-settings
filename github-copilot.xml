@@ -6,6 +6,46 @@
         <entry key="*" value="true" />
       </map>
     </languageAllowList>
+    <option name="toolConfirmAutoApprove" value="true" />
     <option name="terminalRulesVersion" value="1" />
+    <terminalAutoApprove>
+      <map>
+        <entry key="/.*npm test.*/" value="true" />
+        <entry key="/.*npx jest.*/" value="true" />
+        <entry key="/\(.+\)/s" value="false" />
+        <entry key="/\{.+\}/s" value="false" />
+        <entry key="/^Remove-Item\b/i" value="false" />
+        <entry key="/^find\b.*-(delete|exec|execdir|fprint|fprintf|fls|ok|okdir)\b/" value="false" />
+        <entry key="/^sort\b.*-(o|S)\b/" value="false" />
+        <entry key="/^tree\b.*-o\b/" value="false" />
+        <entry key="/`.+`/s" value="false" />
+        <entry key="chmod" value="false" />
+        <entry key="chown" value="false" />
+        <entry key="curl" value="false" />
+        <entry key="del" value="false" />
+        <entry key="erase" value="false" />
+        <entry key="eval" value="false" />
+        <entry key="kill" value="false" />
+        <entry key="rd" value="false" />
+        <entry key="ri" value="false" />
+        <entry key="rm" value="false" />
+        <entry key="rmdir" value="false" />
+        <entry key="wget" value="false" />
+      </map>
+    </terminalAutoApprove>
+    <editAutoApprove>
+      <FileSafetyRule>
+        <option name="description" value="Github instructions files" />
+        <option name="pattern" value="**/.github/instructions/*" />
+      </FileSafetyRule>
+      <FileSafetyRule>
+        <option name="description" value="JetBrains settings files" />
+        <option name="pattern" value="**/.idea/**/*" />
+      </FileSafetyRule>
+      <FileSafetyRule>
+        <option name="description" value="Github Copilot settings and token files" />
+        <option name="pattern" value="**/github-copilot/**/*" />
+      </FileSafetyRule>
+    </editAutoApprove>
   </component>
 </application>
