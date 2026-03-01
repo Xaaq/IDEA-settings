@@ -10,6 +10,7 @@
     <option name="terminalRulesVersion" value="1" />
     <terminalAutoApprove>
       <map>
+        <entry key="/.*grep.*/" value="true" />
         <entry key="/.*npm test.*/" value="true" />
         <entry key="/.*npx jest.*/" value="true" />
         <entry key="/\(.+\)/s" value="false" />
