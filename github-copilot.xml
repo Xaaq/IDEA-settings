@@ -7,6 +7,7 @@
       </map>
     </languageAllowList>
     <option name="toolConfirmAutoApprove" value="true" />
+    <option name="maxToolCallingLoop" value="50" />
     <option name="terminalRulesVersion" value="1" />
     <terminalAutoApprove>
       <map>
