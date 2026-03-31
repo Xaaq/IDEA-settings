@@ -11,7 +11,7 @@
             <root url="file://$USER_HOME$/.pyenv/versions/3.13.9/lib/python3.13" type="simple" />
             <root url="file://$USER_HOME$/.pyenv/versions/3.13.9/lib/python3.13/lib-dynload" type="simple" />
             <root url="file://$USER_HOME$/projects/my/gymfox/backend/.venv/lib/python3.13/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2025.3/python_stubs/1888811873" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2026.1/python_stubs/1888811873" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
