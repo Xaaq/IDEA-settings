@@ -1,0 +1,5 @@
+<application>
+  <component name="NginxAnalytics">
+    <option name="consentState" value="DECLINED" />
+  </component>
+</application>
