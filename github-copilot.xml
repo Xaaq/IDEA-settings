@@ -21,12 +21,17 @@
         <entry key="/^sort\b.*-(o|S)\b/" value="false" />
         <entry key="/^tree\b.*-o\b/" value="false" />
         <entry key="/`.+`/s" value="false" />
+        <entry key="cat" value="true" />
+        <entry key="cd" value="true" />
         <entry key="chmod" value="false" />
         <entry key="chown" value="false" />
         <entry key="curl" value="false" />
         <entry key="del" value="false" />
+        <entry key="echo" value="true" />
         <entry key="erase" value="false" />
         <entry key="eval" value="false" />
+        <entry key="git" value="true" />
+        <entry key="head" value="true" />
         <entry key="kill" value="false" />
         <entry key="rd" value="false" />
         <entry key="ri" value="false" />
