@@ -32,10 +32,12 @@
         <entry key="git" value="true" />
         <entry key="head" value="true" />
         <entry key="kill" value="false" />
+        <entry key="npx" value="true" />
         <entry key="rd" value="false" />
         <entry key="ri" value="false" />
         <entry key="rm" value="false" />
         <entry key="rmdir" value="false" />
+        <entry key="tail" value="true" />
         <entry key="wget" value="false" />
       </map>
     </terminalAutoApprove>
