@@ -30,6 +30,7 @@
         <entry key="erase" value="false" />
         <entry key="eval" value="false" />
         <entry key="git" value="true" />
+        <entry key="grep" value="true" />
         <entry key="head" value="true" />
         <entry key="kill" value="false" />
         <entry key="npx" value="true" />
